@@ -12,3 +12,14 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+.sync/*
+
+.me_configs.data
+
+.z_sync_configs.data
+
+sync_changes.log
+
+sync_hook.script
+
+**/.Archive
