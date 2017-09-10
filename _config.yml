@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "ETERNOVA CONSULTING"
-title_separator          : "-"
+locale                   : "en-zh"
+title                    : "ETERNOVA INTERNATIONAL CONSULTING"
+title_separator          : "|"
 name                     : "ERIC WANG"
-description              : "YOUR CONSULTANT TO BUILD INTERNATIONAL BUSINESS RELATIONSHIP"
-url                      : # the base hostname & protocol for your site e.g. "https://eternova-consulting.com"
+description              : "INTERNATIONAL MARKETING CONSULTANT TO BUILD INTERNATIONAL BUSINESS LINKS BETWEEN CHINA AND THE WORLD"
+url                      : https://eternova-consulting.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+repository               : "eternova/eternova.github.io"
+teaser                   : "/assets/images/hose-bend.jpg"
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "ERIC WANG"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "INTERNATIONAL BUSINESS COOPERATION EXPERT."
   location         : "CHINA"
   email            : "eric.wang.sheng@foxmail"
-  uri              :
+  uri              : "http://www.eternova-consulting.com"
   bitbucket        :
   codepen          :
   dribbble         :
