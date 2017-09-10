@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About Eternova"
+    url: https://eternova.github.io/docs/About-Eternova/
+  - title: "Services"
+    url: https://eternova.github.io/docs/Services
+  - title: "Case-study"
+    url: https://eternova.github.io/docs/Case-study
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
